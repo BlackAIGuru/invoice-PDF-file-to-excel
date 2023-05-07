@@ -26,9 +26,9 @@ After making the necessary downloads, run the code below
 python3 main.py
 ```
 ## ScreenShoots
-<img width="1192" alt="Screen Shot 2021-11-26 at 02 34 03" src="https://user-images.githubusercontent.com/52200813/143507786-a0196dbd-e9b3-4763-acb3-8dbc89007998.png">
+<img width="1192" alt="Screen Shot 2022-2-26 at 02 34 03" src="https://user-images.githubusercontent.com/52200813/143507786-a0196dbd-e9b3-4763-acb3-8dbc89007998.png">
 PDF EXAMPLE
-<img width="576" alt="Screen Shot 2021-11-26 at 02 35 18" src="https://user-images.githubusercontent.com/52200813/143507835-423eb173-6df3-4201-9a2f-332454ab4ddf.png">
+<img width="576" alt="Screen Shot 2022-2-26 at 02 35 18" src="https://user-images.githubusercontent.com/52200813/143507835-423eb173-6df3-4201-9a2f-332454ab4ddf.png">
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## Files
